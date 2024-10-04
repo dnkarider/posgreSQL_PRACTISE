@@ -1,0 +1,1 @@
+SELECT * FROM my_schema.persons name WHERE city_of_living LIKE 'MOSCOW';

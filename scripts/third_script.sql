@@ -1,0 +1,1 @@
+SELECT * FROM my_schema.persons name WHERE age >= 27 ORDER BY age ASC;
